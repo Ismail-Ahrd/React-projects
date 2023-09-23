@@ -1,0 +1,14 @@
+.my-photo {
+    width: 100%;
+    height: 400px;
+    background-image: url("./images/image.jpg");
+    background-size: cover;
+}
+
+h1, h3, p{
+    text-align: center;
+}
+
+.email-btn >img, .linkedln-btn >img {
+    width: 30px;
+}

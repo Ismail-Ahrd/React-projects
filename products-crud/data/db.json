@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 4300,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "phone",
+      "price": 1300,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "printer",
+      "price": 2000,
+      "checked": true
+    },
+    {
+      "id": 5,
+      "name": "Tv",
+      "price": 5000,
+      "checked": true
+    },
+    {
+      "name": "test",
+      "price": "456",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "test2",
+      "price": "4567",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "test2",
+      "price": "77777",
+      "checked": true,
+      "id": 9
+    }
+  ]
+}

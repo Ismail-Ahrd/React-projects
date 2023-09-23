@@ -1,0 +1,35 @@
+.list {
+    border: 1px solid ;
+    padding: 2px 20px;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list p {
+    font-size: large;
+    font-weight: 400;
+}
+
+.list button {
+    padding: 11px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+}
+
+.list button:hover {
+    opacity: 0.9;
+}
+
+.done-btn {
+    background-color: rgb(12, 182, 12);
+}
+
+.remove-btn {
+    background-color: red;
+}
